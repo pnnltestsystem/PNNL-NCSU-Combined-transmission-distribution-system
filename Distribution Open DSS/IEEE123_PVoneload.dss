@@ -1,0 +1,2 @@
+New LoadShape.PVShapeS114a  npts=1440  minterval=[1] mult=(File=PVShapeS114a.csv ) Action=Normalize   
+New PVSystem.PVS114a  phases=1  bus1=114.1 KV=2.4018 KVA=20  Pmpp=20 PF=1 duty=PVShapeS114a   

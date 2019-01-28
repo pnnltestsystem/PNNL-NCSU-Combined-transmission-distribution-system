@@ -1,0 +1,182 @@
+New LoadShape.PVShapeS1a  npts=288  minterval=[5] pmult=(File=PVShapeS1a.csv ) qmult=(File=PVShapeS1aQ.csv ) Action=Normalize   
+New PVSystem.PVS1a  phases=1  bus1=1.1 KV=2.4   KVA=35.5876  kvar=-35.5876  pmpp=29.6922  duty=PVShapeS1a   %cutout=0   
+New LoadShape.PVShapeS2b  npts=288  minterval=[5] pmult=(File=PVShapeS2b.csv ) qmult=(File=PVShapeS2bQ.csv ) Action=Normalize   
+New PVSystem.PVS2b  phases=1  bus1=2.2 KV=2.4   KVA=20.4279  kvar=20.4279  pmpp=16.8959  duty=PVShapeS2b   %cutout=0   
+New LoadShape.PVShapeS4c  npts=288  minterval=[5] pmult=(File=PVShapeS4c.csv ) qmult=(File=PVShapeS4cQ.csv ) Action=Normalize   
+New PVSystem.PVS4c  phases=1  bus1=4.3 KV=2.4   KVA=35.3479  kvar=-35.3479  pmpp=29.8499  duty=PVShapeS4c   %cutout=0   
+New LoadShape.PVShapeS5c  npts=288  minterval=[5] pmult=(File=PVShapeS5c.csv ) qmult=(File=PVShapeS5cQ.csv ) Action=Normalize   
+New PVSystem.PVS5c  phases=1  bus1=5.3 KV=2.4   KVA=21.1973  kvar=21.1973  pmpp=17.5565  duty=PVShapeS5c   %cutout=0   
+New LoadShape.PVShapeS6c  npts=288  minterval=[5] pmult=(File=PVShapeS6c.csv ) qmult=(File=PVShapeS6cQ.csv ) Action=Normalize   
+New PVSystem.PVS6c  phases=1  bus1=6.3 KV=2.4   KVA=38.4245  kvar=-38.4245  pmpp=32.6075  duty=PVShapeS6c   %cutout=0   
+New LoadShape.PVShapeS7a  npts=288  minterval=[5] pmult=(File=PVShapeS7a.csv ) qmult=(File=PVShapeS7aQ.csv ) Action=Normalize   
+New PVSystem.PVS7a  phases=1  bus1=7.1 KV=2.4   KVA=18.9641  kvar=-18.9641  pmpp=17.7143  duty=PVShapeS7a   %cutout=0   
+New LoadShape.PVShapeS9a  npts=288  minterval=[5] pmult=(File=PVShapeS9a.csv ) qmult=(File=PVShapeS9aQ.csv ) Action=Normalize   
+New PVSystem.PVS9a  phases=1  bus1=9.1 KV=2.4   KVA=36.0952  kvar=-36.0952  pmpp=30.9782  duty=PVShapeS9a   %cutout=0   
+New LoadShape.PVShapeS10a  npts=288  minterval=[5] pmult=(File=PVShapeS10a.csv ) qmult=(File=PVShapeS10aQ.csv ) Action=Normalize   
+New PVSystem.PVS10a  phases=1  bus1=10.1 KV=2.4   KVA=19.2767  kvar=19.2767  pmpp=16.0127  duty=PVShapeS10a   %cutout=0   
+New LoadShape.PVShapeS11a  npts=288  minterval=[5] pmult=(File=PVShapeS11a.csv ) qmult=(File=PVShapeS11aQ.csv ) Action=Normalize   
+New PVSystem.PVS11a  phases=1  bus1=11.1 KV=2.4   KVA=36.395  kvar=-36.395  pmpp=33.8675  duty=PVShapeS11a   %cutout=0   
+New LoadShape.PVShapeS12b  npts=288  minterval=[5] pmult=(File=PVShapeS12b.csv ) qmult=(File=PVShapeS12bQ.csv ) Action=Normalize   
+New PVSystem.PVS12b  phases=1  bus1=12.2 KV=2.4   KVA=22.0359  kvar=22.0359  pmpp=18.2171  duty=PVShapeS12b   %cutout=0   
+New LoadShape.PVShapeS16c  npts=288  minterval=[5] pmult=(File=PVShapeS16c.csv ) qmult=(File=PVShapeS16cQ.csv ) Action=Normalize   
+New PVSystem.PVS16c  phases=1  bus1=16.3 KV=2.4   KVA=37.9012  kvar=-37.9012  pmpp=33.8626  duty=PVShapeS16c   %cutout=0   
+New LoadShape.PVShapeS17c  npts=288  minterval=[5] pmult=(File=PVShapeS17c.csv ) qmult=(File=PVShapeS17cQ.csv ) Action=Normalize   
+New PVSystem.PVS17c  phases=1  bus1=17.3 KV=2.4   KVA=19.4954  kvar=19.4954  pmpp=16.1462  duty=PVShapeS17c   %cutout=0   
+New LoadShape.PVShapeS19a  npts=288  minterval=[5] pmult=(File=PVShapeS19a.csv ) qmult=(File=PVShapeS19aQ.csv ) Action=Normalize   
+New PVSystem.PVS19a  phases=1  bus1=19.1 KV=2.4   KVA=34.9356  kvar=34.9356  pmpp=32.0881  duty=PVShapeS19a   %cutout=0   
+New LoadShape.PVShapeS20a  npts=288  minterval=[5] pmult=(File=PVShapeS20a.csv ) qmult=(File=PVShapeS20aQ.csv ) Action=Normalize   
+New PVSystem.PVS20a  phases=1  bus1=20.1 KV=2.4   KVA=36.5977  kvar=36.5977  pmpp=31.7865  duty=PVShapeS20a   %cutout=0   
+New LoadShape.PVShapeS22b  npts=288  minterval=[5] pmult=(File=PVShapeS22b.csv ) qmult=(File=PVShapeS22bQ.csv ) Action=Normalize   
+New PVSystem.PVS22b  phases=1  bus1=22.2 KV=2.4   KVA=36.1646  kvar=36.1646  pmpp=29.8998  duty=PVShapeS22b   %cutout=0   
+New LoadShape.PVShapeS24c  npts=288  minterval=[5] pmult=(File=PVShapeS24c.csv ) qmult=(File=PVShapeS24cQ.csv ) Action=Normalize   
+New PVSystem.PVS24c  phases=1  bus1=24.3 KV=2.4   KVA=35.7064  kvar=35.7064  pmpp=29.5512  duty=PVShapeS24c   %cutout=0   
+New LoadShape.PVShapeS28a  npts=288  minterval=[5] pmult=(File=PVShapeS28a.csv ) qmult=(File=PVShapeS28aQ.csv ) Action=Normalize   
+New PVSystem.PVS28a  phases=1  bus1=28.1 KV=2.4   KVA=37.4769  kvar=-37.4769  pmpp=31.7786  duty=PVShapeS28a   %cutout=0   
+New LoadShape.PVShapeS29a  npts=288  minterval=[5] pmult=(File=PVShapeS29a.csv ) qmult=(File=PVShapeS29aQ.csv ) Action=Normalize   
+New PVSystem.PVS29a  phases=1  bus1=29.1 KV=2.4   KVA=33.8008  kvar=33.8008  pmpp=29.8743  duty=PVShapeS29a   %cutout=0   
+New LoadShape.PVShapeS30c  npts=288  minterval=[5] pmult=(File=PVShapeS30c.csv ) qmult=(File=PVShapeS30cQ.csv ) Action=Normalize   
+New PVSystem.PVS30c  phases=1  bus1=30.3 KV=2.4   KVA=40.5473  kvar=40.5473  pmpp=33.5492  duty=PVShapeS30c   %cutout=0   
+New LoadShape.PVShapeS31c  npts=288  minterval=[5] pmult=(File=PVShapeS31c.csv ) qmult=(File=PVShapeS31cQ.csv ) Action=Normalize   
+New PVSystem.PVS31c  phases=1  bus1=31.3 KV=2.4   KVA=21.4584  kvar=21.4584  pmpp=17.749  duty=PVShapeS31c   %cutout=0   
+New LoadShape.PVShapeS32c  npts=288  minterval=[5] pmult=(File=PVShapeS32c.csv ) qmult=(File=PVShapeS32cQ.csv ) Action=Normalize   
+New PVSystem.PVS32c  phases=1  bus1=32.3 KV=2.4   KVA=21.648  kvar=21.648  pmpp=17.905  duty=PVShapeS32c   %cutout=0   
+New LoadShape.PVShapeS33a  npts=288  minterval=[5] pmult=(File=PVShapeS33a.csv ) qmult=(File=PVShapeS33aQ.csv ) Action=Normalize   
+New PVSystem.PVS33a  phases=1  bus1=33.1 KV=2.4   KVA=40.6155  kvar=40.6155  pmpp=35.1518  duty=PVShapeS33a   %cutout=0   
+New LoadShape.PVShapeS34c  npts=288  minterval=[5] pmult=(File=PVShapeS34c.csv ) qmult=(File=PVShapeS34cQ.csv ) Action=Normalize   
+New PVSystem.PVS34c  phases=1  bus1=34.3 KV=2.4   KVA=43.3067  kvar=43.3067  pmpp=35.8364  duty=PVShapeS34c   %cutout=0   
+New LoadShape.PVShapeS35a  npts=288  minterval=[5] pmult=(File=PVShapeS35a.csv ) qmult=(File=PVShapeS35aQ.csv ) Action=Normalize   
+New PVSystem.PVS35a  phases=1  bus1=35.1 KV=2.4   KVA=35.2834  kvar=35.2834  pmpp=29.1919  duty=PVShapeS35a   %cutout=0   
+New LoadShape.PVShapeS37a  npts=288  minterval=[5] pmult=(File=PVShapeS37a.csv ) qmult=(File=PVShapeS37aQ.csv ) Action=Normalize   
+New PVSystem.PVS37a  phases=1  bus1=37.1 KV=2.4   KVA=34.7531  kvar=-34.7531  pmpp=29.9295  duty=PVShapeS37a   %cutout=0   
+New LoadShape.PVShapeS38b  npts=288  minterval=[5] pmult=(File=PVShapeS38b.csv ) qmult=(File=PVShapeS38bQ.csv ) Action=Normalize   
+New PVSystem.PVS38b  phases=1  bus1=38.2 KV=2.4   KVA=20.6675  kvar=20.6675  pmpp=17.0844  duty=PVShapeS38b   %cutout=0   
+New LoadShape.PVShapeS39b  npts=288  minterval=[5] pmult=(File=PVShapeS39b.csv ) qmult=(File=PVShapeS39bQ.csv ) Action=Normalize   
+New PVSystem.PVS39b  phases=1  bus1=39.2 KV=2.4   KVA=20.7004  kvar=20.7004  pmpp=17.1113  duty=PVShapeS39b   %cutout=0   
+New LoadShape.PVShapeS41c  npts=288  minterval=[5] pmult=(File=PVShapeS41c.csv ) qmult=(File=PVShapeS41cQ.csv ) Action=Normalize   
+New PVSystem.PVS41c  phases=1  bus1=41.3 KV=2.4   KVA=23.1619  kvar=23.1619  pmpp=19.1616  duty=PVShapeS41c   %cutout=0   
+New LoadShape.PVShapeS42a  npts=288  minterval=[5] pmult=(File=PVShapeS42a.csv ) qmult=(File=PVShapeS42aQ.csv ) Action=Normalize   
+New PVSystem.PVS42a  phases=1  bus1=42.1 KV=2.4   KVA=18.818  kvar=18.818  pmpp=15.6707  duty=PVShapeS42a   %cutout=0   
+New LoadShape.PVShapeS43b  npts=288  minterval=[5] pmult=(File=PVShapeS43b.csv ) qmult=(File=PVShapeS43bQ.csv ) Action=Normalize   
+New PVSystem.PVS43b  phases=1  bus1=43.2 KV=2.4   KVA=38.6289  kvar=38.6289  pmpp=31.9398  duty=PVShapeS43b   %cutout=0   
+New LoadShape.PVShapeS45a  npts=288  minterval=[5] pmult=(File=PVShapeS45a.csv ) qmult=(File=PVShapeS45aQ.csv ) Action=Normalize   
+New PVSystem.PVS45a  phases=1  bus1=45.1 KV=2.4   KVA=18.5313  kvar=18.5313  pmpp=15.4918  duty=PVShapeS45a   %cutout=0   
+New LoadShape.PVShapeS46a  npts=288  minterval=[5] pmult=(File=PVShapeS46a.csv ) qmult=(File=PVShapeS46aQ.csv ) Action=Normalize   
+New PVSystem.PVS46a  phases=1  bus1=46.1 KV=2.4   KVA=20.3529  kvar=20.3529  pmpp=16.9275  duty=PVShapeS46a   %cutout=0   
+New LoadShape.PVShapeS47  npts=288  minterval=[5] pmult=(File=PVShapeS47.csv ) qmult=(File=PVShapeS47Q.csv ) Action=Normalize   
+New PVSystem.PVS47  phases=3  bus1=47 KV=4.16   KVA=93.1649  kvar=-93.1649  pmpp=77.013  duty=PVShapeS47   %cutout=0   
+New LoadShape.PVShapeS48  npts=288  minterval=[5] pmult=(File=PVShapeS48.csv ) qmult=(File=PVShapeS48Q.csv ) Action=Normalize   
+New PVSystem.PVS48  phases=3  bus1=48 KV=4.16   KVA=174.4771  kvar=-174.4771  pmpp=144.2064  duty=PVShapeS48   %cutout=0   
+New LoadShape.PVShapeS49a  npts=288  minterval=[5] pmult=(File=PVShapeS49a.csv ) qmult=(File=PVShapeS49aQ.csv ) Action=Normalize   
+New PVSystem.PVS49a  phases=1  bus1=49.1 KV=2.4   KVA=31.4544  kvar=31.4544  pmpp=26.5004  duty=PVShapeS49a   %cutout=0   
+New LoadShape.PVShapeS49b  npts=288  minterval=[5] pmult=(File=PVShapeS49b.csv ) qmult=(File=PVShapeS49bQ.csv ) Action=Normalize   
+New PVSystem.PVS49b  phases=1  bus1=49.2 KV=2.4   KVA=64.0631  kvar=-64.0631  pmpp=52.9613  duty=PVShapeS49b   %cutout=0   
+New LoadShape.PVShapeS49c  npts=288  minterval=[5] pmult=(File=PVShapeS49c.csv ) qmult=(File=PVShapeS49cQ.csv ) Action=Normalize   
+New PVSystem.PVS49c  phases=1  bus1=49.3 KV=2.4   KVA=33.1941  kvar=33.1941  pmpp=27.47  duty=PVShapeS49c   %cutout=0   
+New LoadShape.PVShapeS50c  npts=288  minterval=[5] pmult=(File=PVShapeS50c.csv ) qmult=(File=PVShapeS50cQ.csv ) Action=Normalize   
+New PVSystem.PVS50c  phases=1  bus1=50.3 KV=2.4   KVA=39.2685  kvar=39.2685  pmpp=32.4964  duty=PVShapeS50c   %cutout=0   
+New LoadShape.PVShapeS51a  npts=288  minterval=[5] pmult=(File=PVShapeS51a.csv ) qmult=(File=PVShapeS51aQ.csv ) Action=Normalize   
+New PVSystem.PVS51a  phases=1  bus1=51.1 KV=2.4   KVA=19.5393  kvar=19.5393  pmpp=16.3233  duty=PVShapeS51a   %cutout=0   
+New LoadShape.PVShapeS52a  npts=288  minterval=[5] pmult=(File=PVShapeS52a.csv ) qmult=(File=PVShapeS52aQ.csv ) Action=Normalize   
+New PVSystem.PVS52a  phases=1  bus1=52.1 KV=2.4   KVA=37.389  kvar=-37.389  pmpp=31.3623  duty=PVShapeS52a   %cutout=0   
+New LoadShape.PVShapeS53a  npts=288  minterval=[5] pmult=(File=PVShapeS53a.csv ) qmult=(File=PVShapeS53aQ.csv ) Action=Normalize   
+New PVSystem.PVS53a  phases=1  bus1=53.1 KV=2.4   KVA=34.569  kvar=-34.569  pmpp=29.3941  duty=PVShapeS53a   %cutout=0   
+New LoadShape.PVShapeS55a  npts=288  minterval=[5] pmult=(File=PVShapeS55a.csv ) qmult=(File=PVShapeS55aQ.csv ) Action=Normalize   
+New PVSystem.PVS55a  phases=1  bus1=55.1 KV=2.4   KVA=20.8959  kvar=20.8959  pmpp=17.6202  duty=PVShapeS55a   %cutout=0   
+New LoadShape.PVShapeS56b  npts=288  minterval=[5] pmult=(File=PVShapeS56b.csv ) qmult=(File=PVShapeS56bQ.csv ) Action=Normalize   
+New PVSystem.PVS56b  phases=1  bus1=56.2 KV=2.4   KVA=23.3759  kvar=23.3759  pmpp=19.322  duty=PVShapeS56b   %cutout=0   
+New LoadShape.PVShapeS58b  npts=288  minterval=[5] pmult=(File=PVShapeS58b.csv ) qmult=(File=PVShapeS58bQ.csv ) Action=Normalize   
+New PVSystem.PVS58b  phases=1  bus1=58.2 KV=2.4   KVA=20.8507  kvar=20.8507  pmpp=17.2344  duty=PVShapeS58b   %cutout=0   
+New LoadShape.PVShapeS59b  npts=288  minterval=[5] pmult=(File=PVShapeS59b.csv ) qmult=(File=PVShapeS59bQ.csv ) Action=Normalize   
+New PVSystem.PVS59b  phases=1  bus1=59.2 KV=2.4   KVA=19.6321  kvar=19.6321  pmpp=16.2271  duty=PVShapeS59b   %cutout=0   
+New LoadShape.PVShapeS60a  npts=288  minterval=[5] pmult=(File=PVShapeS60a.csv ) qmult=(File=PVShapeS60aQ.csv ) Action=Normalize   
+New PVSystem.PVS60a  phases=1  bus1=60.1 KV=2.4   KVA=14.7991  kvar=-14.7991  pmpp=16.3442  duty=PVShapeS60a   %cutout=0   
+New LoadShape.PVShapeS62c  npts=288  minterval=[5] pmult=(File=PVShapeS62c.csv ) qmult=(File=PVShapeS62cQ.csv ) Action=Normalize   
+New PVSystem.PVS62c  phases=1  bus1=62.3 KV=2.4   KVA=40.14  kvar=40.14  pmpp=33.5753  duty=PVShapeS62c   %cutout=0   
+New LoadShape.PVShapeS63a  npts=288  minterval=[5] pmult=(File=PVShapeS63a.csv ) qmult=(File=PVShapeS63aQ.csv ) Action=Normalize   
+New PVSystem.PVS63a  phases=1  bus1=63.1 KV=2.4   KVA=36.9896  kvar=-36.9896  pmpp=31.2027  duty=PVShapeS63a   %cutout=0   
+New LoadShape.PVShapeS64b  npts=288  minterval=[5] pmult=(File=PVShapeS64b.csv ) qmult=(File=PVShapeS64bQ.csv ) Action=Normalize   
+New PVSystem.PVS64b  phases=1  bus1=64.2 KV=2.4   KVA=66.6415  kvar=-66.6415  pmpp=55.0839  duty=PVShapeS64b   %cutout=0   
+New LoadShape.PVShapeS65a  npts=288  minterval=[5] pmult=(File=PVShapeS65a.csv ) qmult=(File=PVShapeS65aQ.csv ) Action=Normalize   
+New PVSystem.PVS65a  phases=1  bus1=65.1 KV=2.4   KVA=34.5246  kvar=34.5246  pmpp=28.5427  duty=PVShapeS65a   %cutout=0   
+New LoadShape.PVShapeS65b  npts=288  minterval=[5] pmult=(File=PVShapeS65b.csv ) qmult=(File=PVShapeS65bQ.csv ) Action=Normalize   
+New PVSystem.PVS65b  phases=1  bus1=65.2 KV=2.4   KVA=33.5106  kvar=33.5106  pmpp=27.7021  duty=PVShapeS65b   %cutout=0   
+New LoadShape.PVShapeS65c  npts=288  minterval=[5] pmult=(File=PVShapeS65c.csv ) qmult=(File=PVShapeS65cQ.csv ) Action=Normalize   
+New PVSystem.PVS65c  phases=1  bus1=65.3 KV=2.4   KVA=61.9882  kvar=-61.9882  pmpp=51.2657  duty=PVShapeS65c   %cutout=0   
+New LoadShape.PVShapeS66c  npts=288  minterval=[5] pmult=(File=PVShapeS66c.csv ) qmult=(File=PVShapeS66cQ.csv ) Action=Normalize   
+New PVSystem.PVS66c  phases=1  bus1=66.3 KV=2.4   KVA=71.5372  kvar=-71.5372  pmpp=59.272  duty=PVShapeS66c   %cutout=0   
+New LoadShape.PVShapeS68a  npts=288  minterval=[5] pmult=(File=PVShapeS68a.csv ) qmult=(File=PVShapeS68aQ.csv ) Action=Normalize   
+New PVSystem.PVS68a  phases=1  bus1=68.1 KV=2.4   KVA=20.8438  kvar=20.8438  pmpp=17.3488  duty=PVShapeS68a   %cutout=0   
+New LoadShape.PVShapeS69a  npts=288  minterval=[5] pmult=(File=PVShapeS69a.csv ) qmult=(File=PVShapeS69aQ.csv ) Action=Normalize   
+New PVSystem.PVS69a  phases=1  bus1=69.1 KV=2.4   KVA=40.5838  kvar=-40.5838  pmpp=34.1948  duty=PVShapeS69a   %cutout=0   
+New LoadShape.PVShapeS70a  npts=288  minterval=[5] pmult=(File=PVShapeS70a.csv ) qmult=(File=PVShapeS70aQ.csv ) Action=Normalize   
+New PVSystem.PVS70a  phases=1  bus1=70.1 KV=2.4   KVA=20.8197  kvar=20.8197  pmpp=17.2863  duty=PVShapeS70a   %cutout=0   
+New LoadShape.PVShapeS71a  npts=288  minterval=[5] pmult=(File=PVShapeS71a.csv ) qmult=(File=PVShapeS71aQ.csv ) Action=Normalize   
+New PVSystem.PVS71a  phases=1  bus1=71.1 KV=2.4   KVA=38.3912  kvar=-38.3912  pmpp=32.7723  duty=PVShapeS71a   %cutout=0   
+New LoadShape.PVShapeS73c  npts=288  minterval=[5] pmult=(File=PVShapeS73c.csv ) qmult=(File=PVShapeS73cQ.csv ) Action=Normalize   
+New PVSystem.PVS73c  phases=1  bus1=73.3 KV=2.4   KVA=35.637  kvar=35.637  pmpp=30.3426  duty=PVShapeS73c   %cutout=0   
+New LoadShape.PVShapeS74c  npts=288  minterval=[5] pmult=(File=PVShapeS74c.csv ) qmult=(File=PVShapeS74cQ.csv ) Action=Normalize   
+New PVSystem.PVS74c  phases=1  bus1=74.3 KV=2.4   KVA=36.3171  kvar=-36.3171  pmpp=32.5268  duty=PVShapeS74c   %cutout=0   
+New LoadShape.PVShapeS75c  npts=288  minterval=[5] pmult=(File=PVShapeS75c.csv ) qmult=(File=PVShapeS75cQ.csv ) Action=Normalize   
+New PVSystem.PVS75c  phases=1  bus1=75.3 KV=2.4   KVA=39.3027  kvar=39.3027  pmpp=32.9117  duty=PVShapeS75c   %cutout=0   
+New LoadShape.PVShapeS76a  npts=288  minterval=[5] pmult=(File=PVShapeS76a.csv ) qmult=(File=PVShapeS76aQ.csv ) Action=Normalize   
+New PVSystem.PVS76a  phases=1  bus1=76.1 KV=2.4   KVA=91.6318  kvar=-91.6318  pmpp=75.7364  duty=PVShapeS76a   %cutout=0   
+New LoadShape.PVShapeS76b  npts=288  minterval=[5] pmult=(File=PVShapeS76b.csv ) qmult=(File=PVShapeS76bQ.csv ) Action=Normalize   
+New PVSystem.PVS76b  phases=1  bus1=76.2 KV=2.4   KVA=60.0949  kvar=-60.0949  pmpp=49.6932  duty=PVShapeS76b   %cutout=0   
+New LoadShape.PVShapeS76c  npts=288  minterval=[5] pmult=(File=PVShapeS76c.csv ) qmult=(File=PVShapeS76cQ.csv ) Action=Normalize   
+New PVSystem.PVS76c  phases=1  bus1=76.3 KV=2.4   KVA=67.055  kvar=-67.055  pmpp=55.4611  duty=PVShapeS76c   %cutout=0   
+New LoadShape.PVShapeS77b  npts=288  minterval=[5] pmult=(File=PVShapeS77b.csv ) qmult=(File=PVShapeS77bQ.csv ) Action=Normalize   
+New PVSystem.PVS77b  phases=1  bus1=77.2 KV=2.4   KVA=38.6626  kvar=38.6626  pmpp=31.9572  duty=PVShapeS77b   %cutout=0   
+New LoadShape.PVShapeS79a  npts=288  minterval=[5] pmult=(File=PVShapeS79a.csv ) qmult=(File=PVShapeS79aQ.csv ) Action=Normalize   
+New PVSystem.PVS79a  phases=1  bus1=79.1 KV=2.4   KVA=41.4616  kvar=-41.4616  pmpp=35.5959  duty=PVShapeS79a   %cutout=0   
+New LoadShape.PVShapeS80b  npts=288  minterval=[5] pmult=(File=PVShapeS80b.csv ) qmult=(File=PVShapeS80bQ.csv ) Action=Normalize   
+New PVSystem.PVS80b  phases=1  bus1=80.2 KV=2.4   KVA=40.6945  kvar=40.6945  pmpp=33.6355  duty=PVShapeS80b   %cutout=0   
+New LoadShape.PVShapeS82a  npts=288  minterval=[5] pmult=(File=PVShapeS82a.csv ) qmult=(File=PVShapeS82aQ.csv ) Action=Normalize   
+New PVSystem.PVS82a  phases=1  bus1=82.1 KV=2.4   KVA=42.0597  kvar=-42.0597  pmpp=35.7667  duty=PVShapeS82a   %cutout=0   
+New LoadShape.PVShapeS83c  npts=288  minterval=[5] pmult=(File=PVShapeS83c.csv ) qmult=(File=PVShapeS83cQ.csv ) Action=Normalize   
+New PVSystem.PVS83c  phases=1  bus1=83.3 KV=2.4   KVA=20.407  kvar=20.407  pmpp=17.0847  duty=PVShapeS83c   %cutout=0   
+New LoadShape.PVShapeS84c  npts=288  minterval=[5] pmult=(File=PVShapeS84c.csv ) qmult=(File=PVShapeS84cQ.csv ) Action=Normalize   
+New PVSystem.PVS84c  phases=1  bus1=84.3 KV=2.4   KVA=20.2296  kvar=20.2296  pmpp=16.9061  duty=PVShapeS84c   %cutout=0   
+New LoadShape.PVShapeS85c  npts=288  minterval=[5] pmult=(File=PVShapeS85c.csv ) qmult=(File=PVShapeS85cQ.csv ) Action=Normalize   
+New PVSystem.PVS85c  phases=1  bus1=85.3 KV=2.4   KVA=4.7365  kvar=-4.7365  pmpp=30.1716  duty=PVShapeS85c   %cutout=0   
+New LoadShape.PVShapeS86b  npts=288  minterval=[5] pmult=(File=PVShapeS86b.csv ) qmult=(File=PVShapeS86bQ.csv ) Action=Normalize   
+New PVSystem.PVS86b  phases=1  bus1=86.2 KV=2.4   KVA=21.2536  kvar=21.2536  pmpp=17.5664  duty=PVShapeS86b   %cutout=0   
+New LoadShape.PVShapeS87b  npts=288  minterval=[5] pmult=(File=PVShapeS87b.csv ) qmult=(File=PVShapeS87bQ.csv ) Action=Normalize   
+New PVSystem.PVS87b  phases=1  bus1=87.2 KV=2.4   KVA=35.0151  kvar=35.0151  pmpp=28.9421  duty=PVShapeS87b   %cutout=0   
+New LoadShape.PVShapeS88a  npts=288  minterval=[5] pmult=(File=PVShapeS88a.csv ) qmult=(File=PVShapeS88aQ.csv ) Action=Normalize   
+New PVSystem.PVS88a  phases=1  bus1=88.1 KV=2.4   KVA=36.1929  kvar=-36.1929  pmpp=30.4102  duty=PVShapeS88a   %cutout=0   
+New LoadShape.PVShapeS90b  npts=288  minterval=[5] pmult=(File=PVShapeS90b.csv ) qmult=(File=PVShapeS90bQ.csv ) Action=Normalize   
+New PVSystem.PVS90b  phases=1  bus1=90.2 KV=2.4   KVA=40.4146  kvar=40.4146  pmpp=33.4053  duty=PVShapeS90b   %cutout=0   
+New LoadShape.PVShapeS92c  npts=288  minterval=[5] pmult=(File=PVShapeS92c.csv ) qmult=(File=PVShapeS92cQ.csv ) Action=Normalize   
+New PVSystem.PVS92c  phases=1  bus1=92.3 KV=2.4   KVA=40.4059  kvar=-40.4059  pmpp=33.4351  duty=PVShapeS92c   %cutout=0   
+New LoadShape.PVShapeS94a  npts=288  minterval=[5] pmult=(File=PVShapeS94a.csv ) qmult=(File=PVShapeS94aQ.csv ) Action=Normalize   
+New PVSystem.PVS94a  phases=1  bus1=94.1 KV=2.4   KVA=36.8327  kvar=-36.8327  pmpp=31.9102  duty=PVShapeS94a   %cutout=0   
+New LoadShape.PVShapeS95b  npts=288  minterval=[5] pmult=(File=PVShapeS95b.csv ) qmult=(File=PVShapeS95bQ.csv ) Action=Normalize   
+New PVSystem.PVS95b  phases=1  bus1=95.2 KV=2.4   KVA=19.2127  kvar=19.2127  pmpp=15.8798  duty=PVShapeS95b   %cutout=0   
+New LoadShape.PVShapeS96b  npts=288  minterval=[5] pmult=(File=PVShapeS96b.csv ) qmult=(File=PVShapeS96bQ.csv ) Action=Normalize   
+New PVSystem.PVS96b  phases=1  bus1=96.2 KV=2.4   KVA=21.3272  kvar=21.3272  pmpp=17.6273  duty=PVShapeS96b   %cutout=0   
+New LoadShape.PVShapeS98a  npts=288  minterval=[5] pmult=(File=PVShapeS98a.csv ) qmult=(File=PVShapeS98aQ.csv ) Action=Normalize   
+New PVSystem.PVS98a  phases=1  bus1=98.1 KV=2.4   KVA=38.3432  kvar=-38.3432  pmpp=32.1611  duty=PVShapeS98a   %cutout=0   
+New LoadShape.PVShapeS99b  npts=288  minterval=[5] pmult=(File=PVShapeS99b.csv ) qmult=(File=PVShapeS99bQ.csv ) Action=Normalize   
+New PVSystem.PVS99b  phases=1  bus1=99.2 KV=2.4   KVA=38.835  kvar=38.835  pmpp=32.0999  duty=PVShapeS99b   %cutout=0   
+New LoadShape.PVShapeS100c  npts=288  minterval=[5] pmult=(File=PVShapeS100c.csv ) qmult=(File=PVShapeS100cQ.csv ) Action=Normalize   
+New PVSystem.PVS100c  phases=1  bus1=100.3 KV=2.4   KVA=37.651  kvar=-37.651  pmpp=31.6605  duty=PVShapeS100c   %cutout=0   
+New LoadShape.PVShapeS102c  npts=288  minterval=[5] pmult=(File=PVShapeS102c.csv ) qmult=(File=PVShapeS102cQ.csv ) Action=Normalize   
+New PVSystem.PVS102c  phases=1  bus1=102.3 KV=2.4   KVA=20.9181  kvar=20.9181  pmpp=17.4598  duty=PVShapeS102c   %cutout=0   
+New LoadShape.PVShapeS103c  npts=288  minterval=[5] pmult=(File=PVShapeS103c.csv ) qmult=(File=PVShapeS103cQ.csv ) Action=Normalize   
+New PVSystem.PVS103c  phases=1  bus1=103.3 KV=2.4   KVA=37.6599  kvar=37.6599  pmpp=32.0083  duty=PVShapeS103c   %cutout=0   
+New LoadShape.PVShapeS104c  npts=288  minterval=[5] pmult=(File=PVShapeS104c.csv ) qmult=(File=PVShapeS104cQ.csv ) Action=Normalize   
+New PVSystem.PVS104c  phases=1  bus1=104.3 KV=2.4   KVA=39.9081  kvar=39.9081  pmpp=33.7891  duty=PVShapeS104c   %cutout=0   
+New LoadShape.PVShapeS106b  npts=288  minterval=[5] pmult=(File=PVShapeS106b.csv ) qmult=(File=PVShapeS106bQ.csv ) Action=Normalize   
+New PVSystem.PVS106b  phases=1  bus1=106.2 KV=2.4   KVA=39.4697  kvar=39.4697  pmpp=32.6245  duty=PVShapeS106b   %cutout=0   
+New LoadShape.PVShapeS107b  npts=288  minterval=[5] pmult=(File=PVShapeS107b.csv ) qmult=(File=PVShapeS107bQ.csv ) Action=Normalize   
+New PVSystem.PVS107b  phases=1  bus1=107.2 KV=2.4   KVA=37.1082  kvar=37.1082  pmpp=30.6713  duty=PVShapeS107b   %cutout=0   
+New LoadShape.PVShapeS109a  npts=288  minterval=[5] pmult=(File=PVShapeS109a.csv ) qmult=(File=PVShapeS109aQ.csv ) Action=Normalize   
+New PVSystem.PVS109a  phases=1  bus1=109.1 KV=2.4   KVA=40.3306  kvar=-40.3306  pmpp=33.8678  duty=PVShapeS109a   %cutout=0   
+New LoadShape.PVShapeS111a  npts=288  minterval=[5] pmult=(File=PVShapeS111a.csv ) qmult=(File=PVShapeS111aQ.csv ) Action=Normalize   
+New PVSystem.PVS111a  phases=1  bus1=111.1 KV=2.4   KVA=18.0786  kvar=18.0786  pmpp=16.8328  duty=PVShapeS111a   %cutout=0   
+New LoadShape.PVShapeS112a  npts=288  minterval=[5] pmult=(File=PVShapeS112a.csv ) qmult=(File=PVShapeS112aQ.csv ) Action=Normalize   
+New PVSystem.PVS112a  phases=1  bus1=112.1 KV=2.4   KVA=18.6037  kvar=-18.6037  pmpp=16.3599  duty=PVShapeS112a   %cutout=0   
+New LoadShape.PVShapeS113a  npts=288  minterval=[5] pmult=(File=PVShapeS113a.csv ) qmult=(File=PVShapeS113aQ.csv ) Action=Normalize   
+New PVSystem.PVS113a  phases=1  bus1=113.1 KV=2.4   KVA=37.0181  kvar=-37.0181  pmpp=31.0871  duty=PVShapeS113a   %cutout=0   
+New LoadShape.PVShapeS114a  npts=288  minterval=[5] pmult=(File=PVShapeS114a.csv ) qmult=(File=PVShapeS114aQ.csv ) Action=Normalize   
+New PVSystem.PVS114a  phases=1  bus1=114.1 KV=2.4   KVA=5.263  kvar=5.263  pmpp=18.4802  duty=PVShapeS114a   %cutout=0   
