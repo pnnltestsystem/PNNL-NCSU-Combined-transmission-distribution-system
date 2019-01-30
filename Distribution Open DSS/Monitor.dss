@@ -1,2 +1,0 @@
-! Define the monitor
-new Monitor.s   element=Load.S76a   terminal=1 mode=1 ppolar=no
