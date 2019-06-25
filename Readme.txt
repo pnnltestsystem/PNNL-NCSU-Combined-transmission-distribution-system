@@ -2,7 +2,7 @@ This repository contains the data of a standard test system to study T&D interac
 
 The information of each folder in this repository is given as follows:
 
-Distribution Open DSS: 
+Distribution Load and PV Data: 
 -	5-minutes real and reactive power consumed by 91 loads and 5-minutes real power generated from PV at  91 load buses  in each month.
 
 Transmission Gen_PV_Load data:
